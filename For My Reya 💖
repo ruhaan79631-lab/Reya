@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>For My Love ❤️</title>
+<style>
+body{
+background:pink;
+text-align:center;
+font-family:Arial;
+}
+
+h1{
+color:red;
+font-size:50px;
+}
+
+button{
+padding:15px;
+font-size:20px;
+background:red;
+color:white;
+border:none;
+border-radius:10px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>❤️ I Love You ❤️</h1>
+
+<p>You are the most special person in my life.</p>
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">
+
+<br><br>
+
+<button onclick="alert('You are my forever ❤️')">
+Click for a Surprise
+</button>
+
+</body>
+</html>
